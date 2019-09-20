@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\bin\Debug\netcoreapp2.2\AtividadeImpaPar.deps.json
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\bin\Debug\netcoreapp2.2\AtividadeImpaPar.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\bin\Debug\netcoreapp2.2\AtividadeImpaPar.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\bin\Debug\netcoreapp2.2\AtividadeImpaPar.dll
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\bin\Debug\netcoreapp2.2\AtividadeImpaPar.pdb
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\obj\Debug\netcoreapp2.2\AtividadeImpaPar.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\obj\Debug\netcoreapp2.2\AtividadeImpaPar.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\obj\Debug\netcoreapp2.2\AtividadeImpaPar.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\obj\Debug\netcoreapp2.2\AtividadeImpaPar.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\obj\Debug\netcoreapp2.2\AtividadeImpaPar.dll
+C:\Users\fic\Desktop\Csharp\AtividadeImpaPar\obj\Debug\netcoreapp2.2\AtividadeImpaPar.pdb

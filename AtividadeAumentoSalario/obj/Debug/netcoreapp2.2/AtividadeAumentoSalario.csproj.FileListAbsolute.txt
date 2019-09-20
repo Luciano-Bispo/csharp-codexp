@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\bin\Debug\netcoreapp2.2\AtividadeAumentoSalario.deps.json
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\bin\Debug\netcoreapp2.2\AtividadeAumentoSalario.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\bin\Debug\netcoreapp2.2\AtividadeAumentoSalario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\bin\Debug\netcoreapp2.2\AtividadeAumentoSalario.dll
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\bin\Debug\netcoreapp2.2\AtividadeAumentoSalario.pdb
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\obj\Debug\netcoreapp2.2\AtividadeAumentoSalario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\obj\Debug\netcoreapp2.2\AtividadeAumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\obj\Debug\netcoreapp2.2\AtividadeAumentoSalario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\obj\Debug\netcoreapp2.2\AtividadeAumentoSalario.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\obj\Debug\netcoreapp2.2\AtividadeAumentoSalario.dll
+C:\Users\fic\Desktop\Csharp\AtividadeAumentoSalario\obj\Debug\netcoreapp2.2\AtividadeAumentoSalario.pdb

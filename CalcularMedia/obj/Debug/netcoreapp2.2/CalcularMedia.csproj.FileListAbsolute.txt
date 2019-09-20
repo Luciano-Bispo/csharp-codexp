@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\CalcularMedia\bin\Debug\netcoreapp2.2\CalcularMedia.deps.json
+C:\Users\fic\Desktop\CSharp\CalcularMedia\bin\Debug\netcoreapp2.2\CalcularMedia.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\CalcularMedia\bin\Debug\netcoreapp2.2\CalcularMedia.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\CalcularMedia\bin\Debug\netcoreapp2.2\CalcularMedia.dll
+C:\Users\fic\Desktop\CSharp\CalcularMedia\bin\Debug\netcoreapp2.2\CalcularMedia.pdb
+C:\Users\fic\Desktop\CSharp\CalcularMedia\obj\Debug\netcoreapp2.2\CalcularMedia.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\CalcularMedia\obj\Debug\netcoreapp2.2\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\CalcularMedia\obj\Debug\netcoreapp2.2\CalcularMedia.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\CalcularMedia\obj\Debug\netcoreapp2.2\CalcularMedia.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\CalcularMedia\obj\Debug\netcoreapp2.2\CalcularMedia.dll
+C:\Users\fic\Desktop\CSharp\CalcularMedia\obj\Debug\netcoreapp2.2\CalcularMedia.pdb

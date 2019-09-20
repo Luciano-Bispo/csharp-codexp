@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\Rodizio\bin\Debug\netcoreapp2.2\Rodizio.deps.json
+C:\Users\fic\Desktop\CSharp\Rodizio\bin\Debug\netcoreapp2.2\Rodizio.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\Rodizio\bin\Debug\netcoreapp2.2\Rodizio.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\Rodizio\bin\Debug\netcoreapp2.2\Rodizio.dll
+C:\Users\fic\Desktop\CSharp\Rodizio\bin\Debug\netcoreapp2.2\Rodizio.pdb
+C:\Users\fic\Desktop\CSharp\Rodizio\obj\Debug\netcoreapp2.2\Rodizio.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\Rodizio\obj\Debug\netcoreapp2.2\Rodizio.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\Rodizio\obj\Debug\netcoreapp2.2\Rodizio.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\Rodizio\obj\Debug\netcoreapp2.2\Rodizio.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\Rodizio\obj\Debug\netcoreapp2.2\Rodizio.dll
+C:\Users\fic\Desktop\CSharp\Rodizio\obj\Debug\netcoreapp2.2\Rodizio.pdb

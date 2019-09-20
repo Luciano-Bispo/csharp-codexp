@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\bin\Debug\netcoreapp2.2\CalculoMediaFalta.deps.json
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\bin\Debug\netcoreapp2.2\CalculoMediaFalta.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\bin\Debug\netcoreapp2.2\CalculoMediaFalta.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\bin\Debug\netcoreapp2.2\CalculoMediaFalta.dll
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\bin\Debug\netcoreapp2.2\CalculoMediaFalta.pdb
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\obj\Debug\netcoreapp2.2\CalculoMediaFalta.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\obj\Debug\netcoreapp2.2\CalculoMediaFalta.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\obj\Debug\netcoreapp2.2\CalculoMediaFalta.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\obj\Debug\netcoreapp2.2\CalculoMediaFalta.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\obj\Debug\netcoreapp2.2\CalculoMediaFalta.dll
+C:\Users\fic\Desktop\CSharp\CalculoMediaFalta\obj\Debug\netcoreapp2.2\CalculoMediaFalta.pdb

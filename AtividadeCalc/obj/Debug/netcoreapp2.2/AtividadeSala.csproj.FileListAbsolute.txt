@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\AtividadeSala\obj\Debug\netcoreapp2.2\AtividadeSala.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\AtividadeSala\obj\Debug\netcoreapp2.2\AtividadeSala.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\AtividadeSala\obj\Debug\netcoreapp2.2\AtividadeSala.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\AtividadeSala\obj\Debug\netcoreapp2.2\AtividadeSala.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\AtividadeSala\bin\Debug\netcoreapp2.2\AtividadeSala.deps.json
+C:\Users\fic\Desktop\CSharp\AtividadeSala\bin\Debug\netcoreapp2.2\AtividadeSala.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\AtividadeSala\bin\Debug\netcoreapp2.2\AtividadeSala.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\AtividadeSala\bin\Debug\netcoreapp2.2\AtividadeSala.dll
+C:\Users\fic\Desktop\CSharp\AtividadeSala\bin\Debug\netcoreapp2.2\AtividadeSala.pdb
+C:\Users\fic\Desktop\CSharp\AtividadeSala\obj\Debug\netcoreapp2.2\AtividadeSala.dll
+C:\Users\fic\Desktop\CSharp\AtividadeSala\obj\Debug\netcoreapp2.2\AtividadeSala.pdb

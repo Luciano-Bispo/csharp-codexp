@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\bin\Debug\netcoreapp2.2\AtividadeDataNascimento.deps.json
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\bin\Debug\netcoreapp2.2\AtividadeDataNascimento.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\bin\Debug\netcoreapp2.2\AtividadeDataNascimento.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\bin\Debug\netcoreapp2.2\AtividadeDataNascimento.dll
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\bin\Debug\netcoreapp2.2\AtividadeDataNascimento.pdb
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\obj\Debug\netcoreapp2.2\AtividadeDataNascimento.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\obj\Debug\netcoreapp2.2\AtividadeDataNascimento.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\obj\Debug\netcoreapp2.2\AtividadeDataNascimento.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\obj\Debug\netcoreapp2.2\AtividadeDataNascimento.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\obj\Debug\netcoreapp2.2\AtividadeDataNascimento.dll
+C:\Users\fic\Desktop\CSharp\AtividadeDataNascimento\obj\Debug\netcoreapp2.2\AtividadeDataNascimento.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\bin\Debug\netcoreapp2.2\CategoriaNadador.deps.json
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\bin\Debug\netcoreapp2.2\CategoriaNadador.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\bin\Debug\netcoreapp2.2\CategoriaNadador.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\bin\Debug\netcoreapp2.2\CategoriaNadador.dll
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\bin\Debug\netcoreapp2.2\CategoriaNadador.pdb
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\obj\Debug\netcoreapp2.2\CategoriaNadador.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\obj\Debug\netcoreapp2.2\CategoriaNadador.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\obj\Debug\netcoreapp2.2\CategoriaNadador.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\obj\Debug\netcoreapp2.2\CategoriaNadador.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\obj\Debug\netcoreapp2.2\CategoriaNadador.dll
+C:\Users\fic\Desktop\CSharp\CategoriaNadador\obj\Debug\netcoreapp2.2\CategoriaNadador.pdb

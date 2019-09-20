@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\DoWhileArray\bin\Debug\netcoreapp2.2\DoWhileArray.deps.json
+C:\Users\fic\Desktop\Csharp\DoWhileArray\bin\Debug\netcoreapp2.2\DoWhileArray.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\DoWhileArray\bin\Debug\netcoreapp2.2\DoWhileArray.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\DoWhileArray\bin\Debug\netcoreapp2.2\DoWhileArray.dll
+C:\Users\fic\Desktop\Csharp\DoWhileArray\bin\Debug\netcoreapp2.2\DoWhileArray.pdb
+C:\Users\fic\Desktop\Csharp\DoWhileArray\obj\Debug\netcoreapp2.2\DoWhileArray.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\DoWhileArray\obj\Debug\netcoreapp2.2\DoWhileArray.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\DoWhileArray\obj\Debug\netcoreapp2.2\DoWhileArray.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\DoWhileArray\obj\Debug\netcoreapp2.2\DoWhileArray.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\DoWhileArray\obj\Debug\netcoreapp2.2\DoWhileArray.dll
+C:\Users\fic\Desktop\Csharp\DoWhileArray\obj\Debug\netcoreapp2.2\DoWhileArray.pdb
