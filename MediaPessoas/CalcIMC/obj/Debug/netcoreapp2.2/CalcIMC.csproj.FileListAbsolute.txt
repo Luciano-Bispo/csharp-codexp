@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\bin\Debug\netcoreapp2.2\CalcIMC.deps.json
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\bin\Debug\netcoreapp2.2\CalcIMC.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\bin\Debug\netcoreapp2.2\CalcIMC.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\bin\Debug\netcoreapp2.2\CalcIMC.dll
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\bin\Debug\netcoreapp2.2\CalcIMC.pdb
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\obj\Debug\netcoreapp2.2\CalcIMC.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\obj\Debug\netcoreapp2.2\CalcIMC.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\obj\Debug\netcoreapp2.2\CalcIMC.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\obj\Debug\netcoreapp2.2\CalcIMC.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\obj\Debug\netcoreapp2.2\CalcIMC.dll
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\CalcIMC\obj\Debug\netcoreapp2.2\CalcIMC.pdb

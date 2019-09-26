@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\bin\Debug\netcoreapp2.2\MediaPessoas.deps.json
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\bin\Debug\netcoreapp2.2\MediaPessoas.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\bin\Debug\netcoreapp2.2\MediaPessoas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\bin\Debug\netcoreapp2.2\MediaPessoas.dll
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\bin\Debug\netcoreapp2.2\MediaPessoas.pdb
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\obj\Debug\netcoreapp2.2\MediaPessoas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\obj\Debug\netcoreapp2.2\MediaPessoas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\obj\Debug\netcoreapp2.2\MediaPessoas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\obj\Debug\netcoreapp2.2\MediaPessoas.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\obj\Debug\netcoreapp2.2\MediaPessoas.dll
+C:\Users\fic\Desktop\csharp-codexp\MediaPessoas\obj\Debug\netcoreapp2.2\MediaPessoas.pdb

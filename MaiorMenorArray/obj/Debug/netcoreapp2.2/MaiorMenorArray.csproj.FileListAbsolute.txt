@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\bin\Debug\netcoreapp2.2\MaiorMenorArray.deps.json
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\bin\Debug\netcoreapp2.2\MaiorMenorArray.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\bin\Debug\netcoreapp2.2\MaiorMenorArray.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\bin\Debug\netcoreapp2.2\MaiorMenorArray.dll
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\bin\Debug\netcoreapp2.2\MaiorMenorArray.pdb
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\obj\Debug\netcoreapp2.2\MaiorMenorArray.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\obj\Debug\netcoreapp2.2\MaiorMenorArray.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\obj\Debug\netcoreapp2.2\MaiorMenorArray.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\obj\Debug\netcoreapp2.2\MaiorMenorArray.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\obj\Debug\netcoreapp2.2\MaiorMenorArray.dll
+C:\Users\fic\Desktop\csharp-codexp\MaiorMenorArray\obj\Debug\netcoreapp2.2\MaiorMenorArray.pdb
